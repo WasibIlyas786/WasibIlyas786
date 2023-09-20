@@ -11,7 +11,7 @@ A results-oriented professional with a dynamic background in software engineerin
 * ✉️  You can contact me at [wasibilyas786@gmail.com](mailto:wasibilyas786@gmail.com)
 * 🧠  I'm learning [Next JS](https://nextjs.org/) & [Nest JS](https://nestjs.com/)
 * 🤝  I'm open to collaborating on MERN Stack Projects
-* 🖥️  See my [Resume](https://drive.google.com/file/d/19k9dtiDJgoM2u2bf9SNKZbrikhnQtVEo/view?usp=sharing)
+* 🖥️  See my [Resume](https://drive.google.com/file/d/19k9dtiDJgoM2u2bf9SNKZbrikhnQtVEo/view?usp=sharing) target="_blank"
 
 ### Skills
 
