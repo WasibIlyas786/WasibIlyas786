@@ -11,7 +11,7 @@ A results-oriented professional with a dynamic background in software engineerin
 * ✉️  You can contact me at [wasibilyas786@gmail.com](mailto:wasibilyas786@gmail.com)
 * 🧠  I'm learning [MERN Stack](https://www.mongodb.com/languages/mern-stack-tutorial#:~:text=The%20MERN%20stack%20is%20a,variants%20of%20the%20MEAN%20stack.) & [Nest JS](https://nestjs.com/)
 * 🤝  I'm open to collaborating on MERN Stack Projects
-* 🖥️  See my [Resume](https://drive.google.com/file/d/1QQKEzHmnxT_rAFNQyqEKEPTj4nlIeZK7/view?usp=sharing) 
+* 🖥️  See my [Resume](https://drive.google.com/file/d/1ZBAO4hxxkhIOqGKAyRUy2WtOBTZlKdAj/view?usp=sharing) 
 
 ### Skills
 
