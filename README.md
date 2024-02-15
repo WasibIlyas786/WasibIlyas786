@@ -7,7 +7,7 @@ Software Engineer . Front-End Developer . React JS Developer
 A results-oriented professional with a dynamic background in software engineering and a dual degree in Computer Science and Electrical Engineering. I bring a wealth of experience, including expertise in CSS, HTML, JavaScript, React JS, Node JS, Express JS, MongoDB, and Python. My passion lies in crafting exceptional user experiences, and I have a strong understanding of server administration and networking protocols.
 
 * 🌍  I'm based in Dubai
-* 🖥️  See my portfolio at [Website](https://v2-wasibilyas.vercel.app/){:target="_blank" rel="noopener"}
+* 🖥️  See my portfolio at [Website](https://v2-wasibilyas.vercel.app/)(:target="_blank" rel="noopener")
 * ✉️  You can contact me at [contact@wasibilyas.com](mailto:contact@wasibilyas.com)
 * 🧠  I'm learning [MERN Stack](https://www.mongodb.com/languages/mern-stack-tutorial#:~:text=The%20MERN%20stack%20is%20a,variants%20of%20the%20MEAN%20stack.) & [React.JS](https://react.dev/)
 * 🤝  I'm open to collaborating on MERN Stack Projects
